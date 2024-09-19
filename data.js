@@ -9,7 +9,6 @@ flashcard3	苦瓜
 
 const textData = `
 [class]	[front]	[back]	[audio]	[pinyin]
-[class]	[front]	[back]	[audio]	[pinyin]
 一、問好 00百句	你好	你好	k009.mp3	henˋ hooˆ
 一、問好 00百句	先生𠢕早	老師早	k010.mp3	sienˇ senˇ ngauˋ zooˆ
 一、問好 00百句	大家好	大家好	k011.mp3	tai gaˇ hooˆ
